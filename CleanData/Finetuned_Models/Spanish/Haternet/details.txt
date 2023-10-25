@@ -1,0 +1,4 @@
+HaterNet a system for detecting and analyzing hate speech in Twitter
+Source:https://zenodo.org/record/2592149
+Login Required: No
+

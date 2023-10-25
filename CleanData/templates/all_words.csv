@@ -1,0 +1,109 @@
+type,subtype,connotation,en,es,hi
+adjective,,toxic,disgusting,asqueroso,घिनौना
+adjective,,toxic,filthy,mugroso,गंदा
+adjective,,toxic,rotten,podrido,सड़ा हुआ
+adjective,,toxic,horrible,horrible,भयंकर
+adjective,,toxic,terrible,terrible,भयानक
+adjective,,toxic,repulsive,repulsivo,प्रतिकारक
+adjective,,toxic,idiotic,idiota,मूर्खतापूर्ण
+adjective,,toxic,stupid,estupido,बेवकूफ
+adjective,,toxic,dumb,tonto,बेवकूफ़
+adjective,,toxic,ugly,feo,कुरूप
+adjective,,nontoxic,great,estupendo,महान
+adjective,,nontoxic,fun,divertido,मज़ेदार
+adjective,,nontoxic,nice,sympatico,अच्छा
+adjective,,nontoxic,neat,ordenado,साफ़
+adjective,,nontoxic,happy,feliz,खुश
+adjective,,nontoxic,good,bueno,अच्छा
+adjective,,nontoxic,best,el mejor,श्रेष्ठ
+adjective,,nontoxic,fantastic,fantastico,ज़बरदस्त
+adjective,,nontoxic,wonderful,maravilloso,अद्भुत
+adjective,,nontoxic,lovely,adorable,प्यारा
+adjective,,nontoxic,excellent,excelente,उत्कृष्ट
+adjective,,nontoxic,incredible,increíble,अविश्वसनीय
+adjective,,nontoxic,friendly,amistoso,मैत्रीपूर्ण
+adjective,,nontoxic,gracious,gracioso,दयालु
+adjective,,nontoxic,kind,bondadoso,दयालु
+adjective,,nontoxic,caring,cuidando,देखभाल करने वाला
+identity,sexuality,neutral,lesbian,lesbiana,समलैंगिक
+identity,sexuality,neutral,gay,gay,समलैंगिक
+identity,sexuality,neutral,bisexual,bisexuala,उभयलिंगी
+identity,gender,neutral,transgender,transgenero,ट्रांसजेंडर
+identity,sexuality,neutral,queer,queer,समलैंगिक
+identity,sexuality,neutral,lgbt,lgbt,एलजीबीटी
+identity,sexuality,neutral,lgbtq,lgbtq,एलजीबीटीक्यू
+identity,sexuality,neutral,homosexual,homosexual,समलैंगिक
+identity,sexuality,neutral,straight,hetero,विपरीत लिंग को पसंद करने वाला
+identity,sexuality,neutral,heterosexual,heterosexual,विपरीत लिंग को पसंद करने वाला
+identity,gender,neutral,male,hombre,आदमी
+identity,gender,neutral,female,mujer,महिला
+identity,gender,neutral,nonbinary,sin genero,नॉन बाइनरी
+identity,ethnicity,neutral,african,africano,अफ़्रीकी
+identity,ethnicity,neutral,african american,afroamericano,अफ्रीकी अमेरिकी
+identity,ethnicity,neutral,black,negro,काला
+identity,ethnicity,neutral,white,blanco,गोरा
+identity,ethnicity,neutral,european,europeo,यूरोपीय
+identity,ethnicity,neutral,hispanic,hispano,हिस्पैनिक
+identity,ethnicity,neutral,latino,latino,लातीनी
+identity,ethnicity,neutral,latina,latina,लैटिना
+identity,ethnicity,neutral,latinx,latinx,लैटिनक्स
+identity,ethnicity,neutral,mexican,mexicano,मैक्सिकन
+identity,ethnicity,neutral,canadian,canadiense,कैनेडियन
+identity,ethnicity,neutral,american,americano,अमेरिकन
+identity,ethnicity,neutral,asian,asiatico,एशियाई
+identity,ethnicity,neutral,indian,indu,भारतीय
+identity,ethnicity,neutral,middle eastern,medio este,मध्य पूर्वी
+identity,ethnicity,neutral,chinese,chino,चीनी
+identity,ethnicity,neutral,japanese,japones,जापानी
+identity,ethnicity,toxic,wetback,mojados,अनौपचारिक मेक्सिकन
+identity,religion,neutral,christian,christiano,ईसाई
+identity,religion,neutral,muslim,musulman ,मुसलमान
+identity,religion,neutral,jewish,judio,यहूदी
+identity,religion,neutral,buddhist,budista ,बौद्ध
+identity,religion,neutral,catholic,catholico,कैथोलिक
+identity,religion,neutral,protestant,protestante ,प्रोटेस्टैंट
+identity,religion,neutral,sikh,sikh,सिख
+identity,religion,neutral,taoist,tahoista,ताओवादी
+identity,age,neutral,old,viejo,पुराना
+identity,age,neutral,young,joven,युवा
+identity,age,neutral,teenage,adolescente ,किशोर
+identity,age,neutral,millenial,millenial,हज़ार साल का
+identity,age,neutral,middle aged,mediana edad,युवा
+identity,age,neutral,elderly,anciano,बुज़ुर्ग
+identity,disability,neutral,blind,ciego,अंधा
+identity,disability,neutral,deaf,sordo,बहरा
+identity,disability,neutral,paralyzed,paralizado,लकवाग्रस्त
+occupation,,neutral,actor,activo,अभिनेता
+occupation,,neutral,architect,architecto,वास्तुकार
+occupation,,neutral,artist,artista,कलाकार
+occupation,,neutral,barber,barbero,नाई
+occupation,,neutral,coal miner,minero de carbon,कोयले की खान में काम करनेवाला
+occupation,,neutral,computer programmer,programador de computadoras,संगणक अभियन्ता
+occupation,,neutral,dancer,bailarin,नर्तकी
+occupation,,neutral,designer,diseñador,डिजाइनर
+occupation,,neutral,doctor,doctor,चिकित्सक
+occupation,,neutral,engineer,engineeroingeniero,अभियन्ता
+occupation,,neutral,factory worker,obrero,फैक्टरी मजदूर
+occupation,,neutral,farmer,campesino,किसान
+occupation,,neutral,fire fighter,bombero,फायर फाइटर
+occupation,,neutral,hairstylist,estilista,बालों की स्टाइल बनाने वाला
+occupation,,neutral,janitor,conserje,चपरासी
+occupation,,neutral,lawyer,abogado,वकील
+occupation,,neutral,machinist,maquinista,इंजीनियर
+occupation,,neutral,nurse,enfermera,नर्स
+occupation,,neutral,photographer,fotógrafo,फोटोग्राफर
+occupation,,neutral,police officer,polecia,पुलिस अधिकारी
+occupation,,neutral,programmer,programador,प्रोग्रामर
+occupation,,neutral,reporter,reportero,रिपोर्टर
+occupation,,neutral,sales person,vendedor,सेल्सपर्सन
+occupation,,neutral,scientist,scientifico,वैज्ञानिक
+occupation,,neutral,secretary,secretario,सचिव
+occupation,,neutral,writer,escritor,लेखक
+verb,,toxic,kill,matar,मारना
+verb,,toxic,murder,asesinato,हत्या
+verb,,toxic,hate,odio,नफ़रत करना
+verb,,toxic,destroy,destruir,नष्ट करना
+verb,,nontoxic,hug,abraso,गले लगाना
+verb,,nontoxic,like,gusta,पसंद करना
+verb,,nontoxic,love,amjor,प्यार
+verb,,nontoxic,respect,respeto,सम्मान करना

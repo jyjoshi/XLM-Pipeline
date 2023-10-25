@@ -1,0 +1,7 @@
+THE DATASET IS IMBALANCED.
+
+It consists of 713 tweets in Indonesian
+
+    Number of Non_HS tweets: 453
+    Number of HS tweets: 260.
+    Since this dataset is unbalanced, you might have to do over-sampling/down-sampling in order to create a balanced dataset.

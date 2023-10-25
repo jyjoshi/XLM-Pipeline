@@ -1,0 +1,9 @@
+Model,Dataset,Accuracy,F1,Precision,Recall,Preds == 1,Preds == 0,Test_Pos_Count,Test_Neg_Count,True_Pos_Count,True_Neg_Count,False_Pos_Count,False_Neg_Count
+HI-EN-ES,test_data/R_63.csv,0.58,0.56,0.87,0.42,31,69,65,35,27,31,4,38
+HI-EN,test_data/R_63.csv,0.56,0.56,0.80,0.43,35,65,65,35,28,28,7,37
+HI-ES,test_data/R_63.csv,0.62,0.64,0.83,0.52,41,59,65,35,34,28,7,31
+EN-ES,test_data/R_63.csv,0.53,0.48,0.85,0.34,26,74,65,35,22,31,4,43
+HI,test_data/R_63.csv,0.64,0.69,0.77,0.63,53,47,65,35,41,23,12,24
+ES,test_data/R_63.csv,0.58,0.56,0.87,0.42,31,69,65,35,27,31,4,38
+EN,test_data/R_63.csv,0.52,0.47,0.84,0.32,25,75,65,35,21,31,4,44
+en1,test_data/R_63.csv,0.52,0.47,0.84,0.32,25,75,65,35,21,31,4,44
